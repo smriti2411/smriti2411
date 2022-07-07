@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Catch Line**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React JS**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
